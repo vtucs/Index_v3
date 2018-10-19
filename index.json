@@ -1,0 +1,10 @@
+{
+  "context": "Laboratories Index",
+  "isValid": true,
+  "laboratories": [
+    {
+      "name": "Computer Programming Laboratory",
+      "url": "https://raw.githubusercontent.com/vtucs/Index_v3/master/cpl.json"
+    }
+  ]
+}
