@@ -1,0 +1,199 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Design_and_Analysis_of_Algorithm_Laboratory",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "01.a.Student.java"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "01.b.Stack.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "02.a.Staff.java"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "02.b.StringTokenizer.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "03.a.Exception.java"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "03.b.MultiThreading.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.QuickSort.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "05.MergeSort.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "06",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "06.a.KnapsackDynamic.java"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "06.b.KnapsackGreedy.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "07",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "07.Dijkstra\u0027sAlgorithm.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "08",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "08.Kruskal\u0027sAlgorithm.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "09",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "09.Prim\u0027sAlgorithm.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "10",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "10.a.Floyd\u0027sAlgorithm.java"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "10.b.TravellingPerson.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "11",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "11.Subsets.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "12",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "12.HamiltonianCycles.java"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

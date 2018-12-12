@@ -1,0 +1,85 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "DBMS_Laboratory",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "01.01.Book_Setup.txt"
+            },
+            {
+              "fileName": "01.02.Book_Queries.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "02.01.Order_Setup.txt"
+            },
+            {
+              "fileName": "02.02.Order_Queries.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "03.01.Movies_Setup.txt"
+            },
+            {
+              "fileName": "03.02.Movies_Queries.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.01.Student_Setup.txt"
+            },
+            {
+              "fileName": "04.02.Student_Queries.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "05.01.Employee_Setup.txt"
+            },
+            {
+              "fileName": "05.02.Employee_Queries.txt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

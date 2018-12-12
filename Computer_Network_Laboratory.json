@@ -1,0 +1,148 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Computer_Network_Laboratory",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "01.3NodesP2P.cc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "02.Ping.cc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "03.Lan.cc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.WLan.cc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "05.GSM.cc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "07",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "07.CRC.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "08",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "08.BellmanFord.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "09",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "09.01.TCPSocketServer.java"
+            },
+            {
+              "fileName": "09.02.TCPSocketClient.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "10",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "10.01.UDPDatagramServer.java"
+            },
+            {
+              "fileName": "10.02.UDPDatagramClient.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "11",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "11.RSA.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "12",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "12.LeakyBucket.java"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

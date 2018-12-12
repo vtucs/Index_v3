@@ -1,0 +1,184 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Microprocessor_and_Microcontroller_Laboratory",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "01.BinarySearch.asm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "02.BubbleSort.asm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "03.Palindrome.asm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.Binomial.asm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "05.TimeAndDate.asm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "06",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "06.AssemblyARM.s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "07",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "07.AssemblyC.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "08",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "08.a.Counter.asm"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "08.b.IOMultiply.asm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "09",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "09.SevenSegment.asm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "10",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "10.StepperMotor.asm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "11",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "11.a.SineWave.asm"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "11.b.HalfSineWave.asm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "12",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "12.LCD.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "13",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "13.StepperMotor.c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

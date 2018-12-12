@@ -1,0 +1,163 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Data_Structures_Laboratory",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "01.ArrayOperations.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "02.PatternSubstitution.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "03.StackOperations.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.InfixToPostfixConversion.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "05.a.PostfixEvaluation.c"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "05.b.TowerOfHanoi.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "06",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "06.CircularQueue.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "07",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "07.SinglyLinkedList.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "08",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "08.DoublyLinkedList.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "09",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "09.PolynomialAddition.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "10",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "10.BinarySearchTree.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "11",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "11.Graph.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "12",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "12.Hashing.c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

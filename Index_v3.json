@@ -1,0 +1,28 @@
+{
+  "context": "Laboratories LabIndexResponse",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Index_v3",
+  "branch": "master",
+  "isValid": true,
+  "laboratories": [
+    {
+      "fileName": "Computer_Network_Laboratory.json"
+    },
+    {
+      "fileName": "Computer_Programming_Laboratory.json"
+    },
+    {
+      "fileName": "Data_Structures_Laboratory.json"
+    },
+    {
+      "fileName": "DBMS_Laboratory.json"
+    },
+    {
+      "fileName": "Design_and_Analysis_of_Algorithm_Laboratory.json"
+    },
+    {
+      "fileName": "Microprocessor_and_Microcontroller_Laboratory.json"
+    }
+  ]
+}

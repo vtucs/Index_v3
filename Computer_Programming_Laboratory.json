@@ -1,0 +1,205 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Computer_Programming_Laboratory",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "01.QuadraticEquations.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "02.Palindrome.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "03.a.SquareRoot.c"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "03.b.LeapYear.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.PolynomialEquation.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "05.SineSeries.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "06",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "06.BubbleSort.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "07",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "07.MatrixMultiplication.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "08",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "08.BinarySearch.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "09",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "09.a.StringCopy.c"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "09.b.VowelCount.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "10",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "10.a.RightRotate.c"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "10.b.IsPrime.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "11",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "11.BinomialCoefficient.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "12",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "12.MergeTwoFiles.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "13",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "13.ArrayOfStructures.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "14",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "14.Pointers.c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
