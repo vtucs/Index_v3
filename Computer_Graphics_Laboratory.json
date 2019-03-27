@@ -1,0 +1,58 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Computer_Graphics_Laboratory",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "01.BresenhamLineAlgorithm.cpp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "02.RotateTriangle.cpp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "07",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "07.SierpinskiGasket.cpp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "09",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "09.ScanLineAlgorithm.cpp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
