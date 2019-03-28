@@ -64,6 +64,9 @@
           "contentFiles": [
             {
               "fileName": "07.01.ShortestJobFirst.java"
+            },
+            {
+              "fileName": "07.02.RoundRobin.java"
             }
           ]
         }
