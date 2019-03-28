@@ -13,7 +13,7 @@
           "subSerialOrder": "a",
           "contentFiles": [
             {
-              "fileName": "01.a.IdentifyExpression.l"
+              "fileName": "01.a.Identify_Expression.l"
             }
           ]
         },
@@ -21,10 +21,10 @@
           "subSerialOrder": "b",
           "contentFiles": [
             {
-              "fileName": "01.b.01.EvaluateExpression.l"
+              "fileName": "01.b.01.Evaluate_Expression_Lex.l"
             },
             {
-              "fileName": "01.b.02.EvaluateExpression.y"
+              "fileName": "01.b.02.Evaluate_Expression_Yacc.y"
             }
           ]
         }
@@ -36,10 +36,10 @@
         {
           "contentFiles": [
             {
-              "fileName": "02.01.Recognize_AnB.l"
+              "fileName": "02.01.Recognize_AnB_Lex.l"
             },
             {
-              "fileName": "02.02.Recognize_AnB.y"
+              "fileName": "02.02.Recognize_AnB_Yacc.y"
             }
           ]
         }
