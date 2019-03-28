@@ -56,6 +56,18 @@
           ]
         }
       ]
+    },
+    {
+      "serialOrder": "07",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "07.01.SJF.java"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
