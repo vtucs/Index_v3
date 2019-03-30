@@ -71,6 +71,18 @@
           ]
         }
       ]
+    },
+    {
+      "serialOrder": "08",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "08.BankersAlgorithm.java"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
