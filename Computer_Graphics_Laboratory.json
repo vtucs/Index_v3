@@ -31,6 +31,30 @@
       ]
     },
     {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "03.SpinCube.cpp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "05.CohenSutherland.cpp"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "serialOrder": "07",
       "labExperimentSubParts": [
         {
