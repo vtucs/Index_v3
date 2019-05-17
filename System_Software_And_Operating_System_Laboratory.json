@@ -83,6 +83,21 @@
           ]
         }
       ]
+    },
+    {
+      "serialOrder": "09",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "09.01.LRU_Cache.java"
+            },
+            {
+              "fileName": "09.02.FIFO_Cache.java"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
