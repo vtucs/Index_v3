@@ -43,6 +43,18 @@
       ]
     },
     {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.CubeWithCamera.cpp"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "serialOrder": "05",
       "labExperimentSubParts": [
         {
@@ -55,12 +67,36 @@
       ]
     },
     {
+      "serialOrder": "06",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "06.TeaPot.cpp"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "serialOrder": "07",
       "labExperimentSubParts": [
         {
           "contentFiles": [
             {
               "fileName": "07.SierpinskiGasket.cpp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "08",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "08.BeziarCurve.cpp"
             }
           ]
         }
