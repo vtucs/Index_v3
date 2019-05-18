@@ -88,7 +88,7 @@
           "subSerialOrder": "a",
           "contentFiles": [
             {
-              "fileName": "06.a.RemoveComments.l"
+              "fileName": "06.a.Remove_Comments.l"
             }
           ]
         },
@@ -96,10 +96,10 @@
           "subSerialOrder": "b",
           "contentFiles": [
             {
-              "fileName": "06.b.01.Identifier.l"
+              "fileName": "06.b.01.Identifier_Lex.l"
             },
             {
-              "fileName": "06.b.02.Identifier.y"
+              "fileName": "06.b.02.Identifier_Yacc.y"
             }
           ]
         }
@@ -111,10 +111,10 @@
         {
           "contentFiles": [
             {
-              "fileName": "07.01.ShortestJobFirst.java"
+              "fileName": "07.01.Shortest_Job_First.java"
             },
             {
-              "fileName": "07.02.RoundRobin.java"
+              "fileName": "07.02.Round_Robin.java"
             }
           ]
         }
@@ -126,7 +126,7 @@
         {
           "contentFiles": [
             {
-              "fileName": "08.BankersAlgorithm.java"
+              "fileName": "08.Bankers_Algorithm.java"
             }
           ]
         }
