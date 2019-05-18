@@ -58,6 +58,54 @@
       ]
     },
     {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.Shift_Reduce.c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "05.Machine_Code.java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "06",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "06.a.RemoveComments.l"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "06.b.01.Identifier.l"
+            },
+            {
+              "fileName": "06.b.02.Identifier.y"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "serialOrder": "07",
       "labExperimentSubParts": [
         {
