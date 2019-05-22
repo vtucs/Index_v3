@@ -96,7 +96,7 @@
         {
           "contentFiles": [
             {
-              "fileName": "08.BeziarCurve.cpp"
+              "fileName": "08.BezierCurve.cpp"
             }
           ]
         }
