@@ -1,0 +1,70 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Machine_Learning_Laboratory",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "01.Find_S.py"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "02.Candidate_Elimination.py"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "03.ID3.py"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.Backpropagation.py"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "05.Naive_Bayesian.py"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

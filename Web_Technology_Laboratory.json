@@ -1,0 +1,70 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Web_Technology_Laboratory",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "01.Simple_Calculator.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "02.Square_And_Cube.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "03.Growing_And_Shrinking_Text.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "04.Functions.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "07",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "07.Digital_Clock.php"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
