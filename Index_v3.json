@@ -25,10 +25,16 @@
       "fileName": "Design_and_Analysis_of_Algorithm_Laboratory.json"
     },
     {
+      "fileName": "Machine_Learning_Laboratory.json"
+    },
+    {
       "fileName": "Microprocessor_and_Microcontroller_Laboratory.json"
     },
     {
       "fileName": "System_Software_And_Operating_System_Laboratory.json"
+    },
+    {
+      "fileName": "Web_Technology_Laboratory.json"
     }
   ]
 }
