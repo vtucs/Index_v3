@@ -55,6 +55,21 @@
       ]
     },
     {
+      "serialOrder": "05",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "05.01.Student_Details.xml"
+            },
+            {
+              "fileName": "05.02.Student_Details.css"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "serialOrder": "06",
       "labExperimentSubParts": [
         {
@@ -100,6 +115,18 @@
           "contentFiles": [
             {
               "fileName": "09.Regex.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "10",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "10.SelectionSort.php"
             }
           ]
         }
