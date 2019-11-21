@@ -55,12 +55,51 @@
       ]
     },
     {
+      "serialOrder": "06",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "06.Visitors.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "serialOrder": "07",
       "labExperimentSubParts": [
         {
           "contentFiles": [
             {
               "fileName": "07.Digital_Clock.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "08",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "08.01.Simple_Calculator.php"
+            },
+            {
+              "fileName": "08.02.Matrices_Operations.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "09",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "09.Regex.php"
             }
           ]
         }
