@@ -60,10 +60,10 @@
         {
           "contentFiles": [
             {
-              "fileName": "05.01.Student_Details.xml"
+              "fileName": "05.01.Student_Details_XML.xml"
             },
             {
-              "fileName": "05.02.Student_Details.css"
+              "fileName": "05.02.Student_Details_CSS.css"
             }
           ]
         }
