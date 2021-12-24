@@ -7,6 +7,9 @@
   "isValid": true,
   "laboratories": [
     {
+      "fileName": "Artificial_Intelligence_And_Machine_Learning_Laboratory.json"
+    },
+    {
       "fileName": "Computer_Graphics_Laboratory.json"
     },
     {
