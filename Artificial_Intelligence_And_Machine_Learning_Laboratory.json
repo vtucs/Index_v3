@@ -67,6 +67,18 @@
       ]
     },
     {
+      "serialOrder": "06",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "06.Naive_Bayesian_Algorithm.py"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "serialOrder": "09",
       "labExperimentSubParts": [
         {
