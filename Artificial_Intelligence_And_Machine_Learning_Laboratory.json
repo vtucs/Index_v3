@@ -79,6 +79,30 @@
       ]
     },
     {
+      "serialOrder": "07",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "07.EM_Algorithm_And_K_Means.py"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "08",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "08.K_Nearest_Neighbor_Algorithm.py"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "serialOrder": "09",
       "labExperimentSubParts": [
         {
